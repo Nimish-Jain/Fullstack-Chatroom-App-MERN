@@ -1,0 +1,25 @@
+.login {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.login > button {
+  width: 180px;
+  background-color: #738adb;
+  font-family: sans-serif;
+  color: white;
+}
+
+.login > div > img {
+  object-fit: contain;
+}
+
+/* .login > button :hover {
+  width: 180px;
+  background-color: #738adb;
+  font-family: sans-serif;
+  color: white;
+  cursor: pointer;
+} */
