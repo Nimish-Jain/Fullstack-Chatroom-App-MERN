@@ -12,8 +12,7 @@ function Login() {
     <div className="login">
       <div className="login__logo">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Discordikona_lv.png/320px-Discordikona_lv.png"
-          // src="./features/logo.png"
+          src="https://user-images.githubusercontent.com/49202320/113196587-4e7a3380-9281-11eb-9fb2-9e50ec44415c.png"
           alt="App Logo"
         />
       </div>
