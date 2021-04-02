@@ -1,13 +1,12 @@
 # Full Stack Chatroom App MERN
 
-This is a chatroom application that lets users create different rooms(channels) and text with other people.
-We get to do the following things :
-1. Sign In using Google Authentication with a single click.
-2. Create Rooms(channels)
-3. Click on any server and Chat with people real-time.
-4. Sign Out with one click.
+This is a chatroom application that lets users create different rooms(channels) and text with other people. We get to do the following things :
+  1. Sign In using Google Authentication with a single click.
+  2. Create Rooms(channels)
+  3. Click on any server and Chat with people real-time.
+  4. Sign Out with one click.
 
-### Tech-Stack
+### Tech-Stack (Frontend)
 
 1. HTML
 2. CSS
@@ -15,12 +14,16 @@ We get to do the following things :
 4. ES6, Javascript
 5. React JS
 6. Redux
+
+### Tech-Stack (Backend)
+
 7. Firebase (For Google Authentication Only)
 8. Node JS
 9. Express JS
-10. MongoDB
+10. MongoDB Atlas
 11. Mongoose
 12. Pusher
+13. Axios API
 
 Here are some Screenshots from the project
 
