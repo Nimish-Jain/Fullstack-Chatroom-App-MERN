@@ -6,6 +6,8 @@ This is a chatroom application that lets users create different rooms(channels) 
   3. Click on any server and Chat with people real-time.
   4. Sign Out with one click.
 
+The application is live, you can try it out from the following link : https://fullstackchatroom.netlify.app/
+
 ### Tech-Stack (Frontend)
 
 1. HTML
